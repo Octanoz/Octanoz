@@ -71,3 +71,7 @@ I've been mainly focused on CRUD apps as you will be able to tell from the repos
 
 Play my version of Wordle here: [Wordle](https://lemon-bay-01144d703.1.azurestaticapps.net/)  
 Movie database powered by TMDB: [Movies](https://gray-mushroom-0cc55ff03.4.azurestaticapps.net/)
+
+## Commits
+
+<img src="https://raw.githubusercontent.com/Octanoz/Octanoz/output/snake.svg" alt="Snake animation" />
