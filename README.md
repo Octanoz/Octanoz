@@ -69,5 +69,6 @@ I've been mainly focused on CRUD apps as you will be able to tell from the repos
 
 ## Online projects
 
-Play my version of Wordle here: [Wordle](https://lemon-bay-01144d703.1.azurestaticapps.net/)  
-Movie database powered by TMDB: [Movies](https://gray-mushroom-0cc55ff03.4.azurestaticapps.net/)
+- Play my version of Wordle here: [Wordle](https://lemon-bay-01144d703.1.azurestaticapps.net/)
+- Movie database powered by TMDB: [Movies](https://gray-mushroom-0cc55ff03.4.azurestaticapps.net/)
+- VS Code Theme on the marketplace: [Theme](https://marketplace.visualstudio.com/items?itemName=Octanoz.muddied-dark)
