@@ -69,6 +69,6 @@ I've been mainly focused on CRUD apps as you will be able to tell from the repos
 
 ## Online projects
 
-- Play my version of Wordle here: [Wordle](https://harmonious-chaja-c2d8c7.netlify.app/))
+- Play my version of Wordle here: [Wordle](https://harmonious-chaja-c2d8c7.netlify.app/)
 - Movie database powered by TMDB: [Movies](https://cinemasterdb.netlify.app/)
 - VS Code Theme on the marketplace: [Theme](https://marketplace.visualstudio.com/items?itemName=Octanoz.muddied-dark)
